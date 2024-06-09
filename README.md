@@ -1,2 +1,3 @@
-The pdf is a sample of the results of this code
-the note book is the source code
+The PDF file is a sample of the results of this code
+and
+The notebook is the source code
